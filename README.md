@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">A passionate software engineer developer from Egypt</h3>
+<h3 align="center">A passionate software engineer from Egypt</h3>
 
 - 🔭 I’m currently looking for **internship opportunities**
 
