@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
+<div align='left'>
+  
+  ![visitors](https://badges.pufler.dev/visits/naelmostafa/naelmostafa)
+  
+</div>
+
 - 🔭 I’m currently looking for **internship opportunities**
 
 - 📫 How to reach me **omarsaad34@gmail.com**
