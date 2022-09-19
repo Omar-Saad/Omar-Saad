@@ -3,7 +3,7 @@
 
 <div align='left'>
   
-  ![visitors](https://badges.pufler.dev/visits/Omar-Saad/Omar-Saad)
+  ![visitors](![](https://komarev.com/ghpvc/?username=Omar-Saad)
   
 </div>
 
