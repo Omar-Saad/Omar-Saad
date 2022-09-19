@@ -3,7 +3,7 @@
 
 <div align='left'>
   
-(![](https://komarev.com/ghpvc/?username=Omar-Saad)
+![](https://komarev.com/ghpvc/?username=Omar-Saad)
   
 </div>
 
