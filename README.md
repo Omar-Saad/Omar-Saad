@@ -7,11 +7,9 @@
   
 </div>
 
-- 🔭 I’m currently looking for **internship opportunities**
-
 - 📫 How to reach me **omarsaad34@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HlPFaD_IK5JwnXe5GU4Pswq7_hjtqH8F/view?usp=sharing](https://drive.google.com/file/d/1HlPFaD_IK5JwnXe5GU4Pswq7_hjtqH8F/view?usp=sharing)
+- 📄 Know about my experiences [https://omar-saad.github.io/](https://omar-saad.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
